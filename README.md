@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, Kidist Belay here.</h1>
-<h3 align="center">A passionate programmer.</h3>
+<h3 align="center">A Passionate Architect, Graphics Designer and Programmer.</h3>
 
 
 - ✍ You can find my projects here
